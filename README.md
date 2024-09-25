@@ -12,7 +12,8 @@ proyecto de clase para la unidad 1 de la asignatura de desarollo móvil integral
 |3|Hola mundo desde DART| 10 |Finalizada|
 |4|Tipos de datos| 5 | Finalizada |
 |5|Tipos de datos dinamicos| 5 | Finalizada|
-|6|Mapas | 6 | Activa |
+|6|Mapas | 6 | Finalizada |
+|7| Listas, Iterables y conjuntos de datos | 9 | Finalizada |
 
 
 ## LISTA DE HERRAMIENTAS
