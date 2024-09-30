@@ -23,14 +23,14 @@ void main() {
   print( greetSomeoneTyped("Hugo Sanchez"));
   
   // 4. Llamado de funciones con varios parametros posicionales
-  print(greetSomeoneHourOfDay("Emilio", 10));
+  print(greetSomeoneHourOfDay("Osiel", 10));
   // ¿Qué pasa si solo envio un solo parametro?
   // print(greetSomeoneHourOfDay(null, null));
   // print(greetSomeoneHourOfDay("Emilio"));
   // print(greetSomeoneHourOfDay(10));
   // Analizando la función determinamos que la hora del dia puede ser nulo, y se puede definir como la hora actual del SO.
-  print(greetSomeoneHourOfDay("Adalid", null));
-  print(greetSomeoneHourOfDay("Maria"));
+  print(greetSomeoneHourOfDay("Max", null));
+  print(greetSomeoneHourOfDay("Mario"));
   // 5. FUNCIONES LAMBDA, ANONIMAS, ARROW FUNCTIONS, FUNCIONES FLECHA
   // Las funciones lambda, tambien conocidas como funciones anonimas o funciones flecha, se ejecutan de manera simple y no frecuentemente en la ejecución de un programa o sistema, en DART estas funciones solo pueden tener una sola instrucción para usar el operador =>
   final double costoTotal;
@@ -45,7 +45,7 @@ void main() {
   ---------------------------------------------------------------
   Costo total: ${calcularTotalCarrito(cantidad, precio, descuento)}""");
   // 6. Llamado de una Función con parámetros nombredos
-  print(infoCarListStatus(buyerName: "Gabriela"));
+  print(infoCarListStatus(buyerName: "Gabi"));
   // 6.1 Llamado de luna función con los parametros en desorden posicional
   print(infoCarListStatus(status: "En espera de pago",
                           amountCarList: 2614.2,

@@ -13,7 +13,8 @@ proyecto de clase para la unidad 1 de la asignatura de desarollo móvil integral
 |4|Tipos de datos| 5 | Finalizada |
 |5|Tipos de datos dinamicos| 5 | Finalizada|
 |6|Mapas | 6 | Finalizada |
-|7| Listas, Iterables y conjuntos de datos | 9 | Finalizada |
+|7|Listas, Iterables y conjuntos de datos | 9 | Finalizada |
+|9|Funciones y parametros | 11 | Finalizada | 
 
 
 ## LISTA DE HERRAMIENTAS
