@@ -16,7 +16,8 @@ proyecto de clase para la unidad 1 de la asignatura de desarollo móvil integral
 |7|Listas, Iterables y conjuntos de datos | 9 | Finalizada |
 |8|Funciones y parametros | 11 | Finalizada | 
 |9|Clases | 9 | Finalizada |
-|10| Constructores Nombrados | 8 | Finalizada |
+|10|Constructores Nombrados | 8 | Finalizada |
+|11|Getters (Lectura controlada) y Setters (Modificación controlada) | 9 | Activa |
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
