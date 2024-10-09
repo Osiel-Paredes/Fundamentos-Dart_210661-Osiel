@@ -21,6 +21,7 @@ proyecto de clase para la unidad 1 de la asignatura de desarollo móvil integral
 |12|Asserts | 3 | Finalizada |
 |13|Clases Abastractas | 11 | Finalizada |
 |14|Mixins| 11 | Actica |
+|15|Future| 7 | Activa |
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
