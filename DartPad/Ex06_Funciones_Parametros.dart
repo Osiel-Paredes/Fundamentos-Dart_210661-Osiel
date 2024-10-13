@@ -26,7 +26,6 @@ void main() {
   print(greetSomeoneHourOfDay("Osiel", 10));
   // ¿Qué pasa si solo envio un solo parametro?
   // print(greetSomeoneHourOfDay(null, null));
-  // print(greetSomeoneHourOfDay("Emilio"));
   // print(greetSomeoneHourOfDay(10));
   // Analizando la función determinamos que la hora del dia puede ser nulo, y se puede definir como la hora actual del SO.
   print(greetSomeoneHourOfDay("Max", null));
