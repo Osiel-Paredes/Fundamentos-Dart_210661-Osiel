@@ -22,10 +22,10 @@ proyecto de clase para la unidad 1 de la asignatura de desarollo móvil integral
 |13|Clases Abastractas | 11 | Finalizada |
 |14|Mixins| 11 | Actica |
 |15|Future| 7 | Activa |
-|16|Future async await | 😶‍🌫️ | Finalizada |
-|17|Future try catch and finally | 😶‍🌫️ | Finalizada | 
-|18|Streams | 😶‍🌫️ | Finalizada |
-|19|Streams and await | 😶‍🌫️ | Finalizada |
+|16|Future async await | 5 | Finalizada |
+|17|Future try catch and finally | 6 | Finalizada | 
+|18|Streams | 6| Finalizada |
+|19|Streams and await | 4 | Finalizada |
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
